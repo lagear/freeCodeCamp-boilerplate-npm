@@ -1,5 +1,5 @@
 {
-	"autor": "marcelo.romero",
+	"author": "marcelo.romero",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
